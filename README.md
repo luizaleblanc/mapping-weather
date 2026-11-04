@@ -121,5 +121,5 @@ Para garantir a fluidez do projeto saindo da documentação para a prática, sig
 | **Passo 3** | **Integração IA** | Engenharia | Criar o serviço de IA, formatar o prompt unindo os JSONs das duas APIs e validar o retorno textual no console. |
 | **Passo 4** | **Construção da UI** | Engenharia/UX | Desenvolver os componentes visuais básicos (Input de busca, Card de Clima, Box de Resposta da IA). |
 | **Passo 5** | **Integração Front e APIs** | Engenharia | Conectar os componentes visuais aos serviços criados (gerenciamento de estados de Loading, Success e Error no React). |
-| **Passo 6** | **Refinamento e Testes** | TCL/Engenharia | Aplicar validações, escrever testes unitários nos componentes principais e garantir responsividade no mobile. |
-| **Passo 7** | **Homologação MVP 1** | PO/TI | Validar se o sistema atende aos critérios do MVP e realizar deploy em plataformas estáticas (ex: Vercel, Netlify, GitHub Pages). |
+| **Passo 6** | **Refinamento e Testes** | TL/Engenharia | Aplicar validações, escrever testes unitários nos componentes principais e garantir responsividade no mobile. |
+| **Passo 7** | **Homologação MVP 1** | TL | Validar se o sistema atende aos critérios do MVP e realizar deploy em plataformas estáticas (ex: Vercel, Netlify, GitHub Pages). |
