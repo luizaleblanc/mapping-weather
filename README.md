@@ -2,12 +2,6 @@
 
 Plataforma web interativa de visualização e análise de dados climáticos históricos com suporte de Inteligência Artificial para interpretação territorial.
 
-![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
-![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-5+-646CFF?logo=vite&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-gpt--4.1--nano-412991?logo=openai&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ## Visão Geral
 
 O **Climate Mapping** centraliza dados meteorológicos históricos (janela de 30 anos: 1996 a 2025) e limites geográficos para permitir a exploração visual das mudanças climáticas em escala global e nacional. Por meio de um globo terrestre 3D interativo, o usuário seleciona países para visualizar séries históricas e, ao selecionar o Brasil, acessa uma camada detalhada das unidades federativas. A plataforma integra o modelo `gpt-4.1-nano` da OpenAI para interpretar métricas processadas, comparar territórios e responder a perguntas baseadas estritamente nos dados exibidos.
