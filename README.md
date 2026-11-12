@@ -47,7 +47,7 @@ O projeto adota uma arquitetura Single Page Application (SPA) dividida em três 
 ## Estrutura de Diretórios
 
 ```text
-climate-mapping/
+mapping-weather/
 ├── api/                          # Funções serverless (proxy seguro para OpenAI)
 │   └── analyze.js
 ├── public/
